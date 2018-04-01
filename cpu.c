@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("CPU\n");
+	printf("CPU!\n");
 	return 0;
 }
